@@ -1,3 +1,3 @@
 # commit-test
 
-ini test3
+ini test
